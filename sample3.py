@@ -1,0 +1,1 @@
+print("sample 3 for python");
